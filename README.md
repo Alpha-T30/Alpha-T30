@@ -26,15 +26,9 @@
 
 ---
 
-<style>
-mark{
-    color:black; 
-}
-</style>
 
-<mark>Profile Views:</mark>
-**Profile Views:**  
-[![](https://visitcount.itsvg.in/api?id=Alpha-T30&label=Views&color=8&icon=0&pretty=true)](https://github.com/Alpha-T30)
+### Profile Views:  
+[![](https://visitcount.itsvg.in/api?id=Alpha-T30&label=‌&color=12&icon=0&pretty=true)](https://github.com/Alpha-T30)
 
 
 
