@@ -26,6 +26,6 @@
 
 ---
  
-[![](https://visitcount.itsvg.in/api?id=Alpha-T30&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Alpha-T30&label=Profile%20Views&color=8&icon=0&pretty=true)](https://github.com/Alpha-T30)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
